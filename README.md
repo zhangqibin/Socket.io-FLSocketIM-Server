@@ -1,5 +1,8 @@
-# node.js-socket.io-server
-node.js+socket.io 使用websocket 方式聊天 服务器端代码
+# Socket.io-FLSocketIM-Server
+即时通讯服务端代码（node.js)
 
-android 端地址 ：https://github.com/githuanl/socket.io-android-client
-ios 端地址： https://github.com/fengli12321/Socket.io-FLSocketIM-iOS
+项目详细介绍请参照：https://www.jianshu.com/p/686c4bf6df3f
+
+android 端地址：https://github.com/githuanl/socket.io-android-client
+
+ios 端地址：https://github.com/fengli12321/Socket.io-FLSocketIM-iOS
