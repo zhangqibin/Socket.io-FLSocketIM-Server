@@ -4,6 +4,7 @@
   "dependencies": {
     "apn": "^2.1.5",
     "body-parser": "*",
+    "cjs": "0.0.11",
     "compression": "*",
     "cookie-parser": "*",
     "ejs": "*",
