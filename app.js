@@ -53,6 +53,6 @@ require('./router/router.js')(app);
 require('./router/chat.js')(io);
 
 //监听
-http.listen(3000);
+http.listen(4000);
 
 

@@ -1,5 +1,4 @@
 
-
 // rooms为所有房间的一个字典，key为房间号，value为一个数组，数组中存放所有的socket连接
 var rooms = {};
 
